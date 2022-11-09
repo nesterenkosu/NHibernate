@@ -1,0 +1,16 @@
+D:\Lections\PI\NHibernate\NHibernateFromGit\OneTable\OneTable\bin\Debug\MyDB.mdf
+D:\Lections\PI\NHibernate\NHibernateFromGit\OneTable\OneTable\bin\Debug\MyDB_log.ldf
+D:\Lections\PI\NHibernate\NHibernateFromGit\OneTable\OneTable\bin\Debug\OneTable.exe.config
+D:\Lections\PI\NHibernate\NHibernateFromGit\OneTable\OneTable\bin\Debug\OneTable.exe
+D:\Lections\PI\NHibernate\NHibernateFromGit\OneTable\OneTable\bin\Debug\OneTable.pdb
+D:\Lections\PI\NHibernate\NHibernateFromGit\OneTable\OneTable\bin\Debug\Iesi.Collections.dll
+D:\Lections\PI\NHibernate\NHibernateFromGit\OneTable\OneTable\bin\Debug\NHibernate.dll
+D:\Lections\PI\NHibernate\NHibernateFromGit\OneTable\OneTable\bin\Debug\Iesi.Collections.xml
+D:\Lections\PI\NHibernate\NHibernateFromGit\OneTable\OneTable\bin\Debug\NHibernate.xml
+D:\Lections\PI\NHibernate\NHibernateFromGit\OneTable\OneTable\obj\Debug\OneTable.csprojAssemblyReference.cache
+D:\Lections\PI\NHibernate\NHibernateFromGit\OneTable\OneTable\obj\Debug\OneTable.csproj.CoreCompileInputs.cache
+D:\Lections\PI\NHibernate\NHibernateFromGit\OneTable\OneTable\obj\Debug\OneTable.csproj.CopyComplete
+D:\Lections\PI\NHibernate\NHibernateFromGit\OneTable\OneTable\obj\Debug\OneTable.exe
+D:\Lections\PI\NHibernate\NHibernateFromGit\OneTable\OneTable\obj\Debug\OneTable.pdb
+D:\Lections\PI\NHibernate\NHibernateFromGit\OneTable\OneTable\bin\Debug\hibernate.cfg.xml
+D:\Lections\PI\NHibernate\NHibernateFromGit\OneTable\OneTable\bin\Debug\Mapping\Employee.hbm.xml
